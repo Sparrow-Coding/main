@@ -21,7 +21,7 @@ Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives a
 7. Is there a positive correlation between the census and the number of people who actually completed the vaccination? 
 
 
-Based on the data analysis, we will apply the Ridge regression model to forecast how many vaccines are still needed and whether the current number of vaccinations is sufficient to control COVID-19.
+Based on the data analysis, we will apply the Ridge regression model to forecast how many vaccines are still needed and whether the current number of vaccinations is sufficient to put COVID-19 under control.
 
 ##  Data Description
 
