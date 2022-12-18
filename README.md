@@ -2,24 +2,19 @@
 
 ### Problem Statement and Background
 
-Data-driven decisions will be made through analysis of 'COVID-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional', which is a dataset updated by the Centers for Disease Control and Prevention on 16th December, 2022. (https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh). 
-
-Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. We aim to use data to address the following questions in order to assist government officials in better allocating social resources and reversing the COVID-19 situation:
+Throughout 2020–2022, Covid-19 rampaged rampantly, putting many people’s lives and quality of life at risk. We aim to use data to address the following questions in order to assist government officials in better allocating social resources and reversing the COVID-19 vaccination situation:
 
 1. Which state has the lowest/highest vaccination rate? How can we cater for the need of vaccination based on the state population and positive Covid-19 cases?
-
 2. Which age group has the lowest/highest vaccination rate? If so, how can we better cater for the age group that has the lowest vaccination rate?
-
 3. What is the vaccination trend looking like for the next 3 months?
-
-4. Is there a high demand for booster doses throughout 2020-2022?
-
+4. Is there a high demand for booster doses throughout 2020–2022?
 5. In which period did the demand for vaccination (administered dose / boosters) seem to decline?
 
-6. Is there a positive correlation between the census and the number of people who actually completed the vaccination? 
+Data-driven decisions will be made through analysis of ‘COVID-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional’, which is a dataset collected by the Centers for Disease Control and Prevention between 12/13/2020 to 2/07/2022.
 
+Reference: https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh
 
-Based on the data analysis, we will apply the Ridge regression model to forecast how many vaccines are still needed and whether the current number of vaccinations is sufficient to put COVID-19 under control.
+Based on the data analysis, we will apply the Ridge regression model to (1) predict how many U.S. citizens have already completed the vaccination and (2) evaluate whether the current number of vaccinations is sufficient to put COVID-19 under control.
 
 ##  Data Description
 
