@@ -4,7 +4,7 @@
 
 Data-driven decisions will be made through analysis of 'COVID-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional', which is a dataset updated by the Centers for Disease Control and Prevention on 16th December, 2022. (https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh). 
 
-Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. We aim to use data to address the following questions in order to assist government officials in better allocating social resources and reversing the COVID-19 vaccination situation:
+Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. We aim to use data to address the following questions in order to assist government officials in better allocating social resources and reversing the COVID-19 situation:
 
 1. Which state has the lowest/highest vaccination rate? 
 
