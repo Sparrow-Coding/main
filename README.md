@@ -14,7 +14,7 @@ Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives a
 
 4. Is there a high demand for booster doses throughout 2020-2022?
 
-5. In which period did the demand for vaccination (adminstered dose / boosters) seem to decline?
+5. In which period did the demand for vaccination (administered dose / boosters) seem to decline?
 
 6. How can we allocate resources based on the need for vaccination in different states? 
 
