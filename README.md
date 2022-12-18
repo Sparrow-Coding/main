@@ -6,7 +6,7 @@ Data-driven decisions will be made through analysis of 'COVID-19 Vaccination Age
 
 Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. We aim to use data to address the following questions in order to assist government officials in better allocating social resources and reversing the COVID-19 situation:
 
-1. Which state has the lowest/highest vaccination rate? 
+1. Which state has the lowest/highest vaccination rate? How can we cater for the need of vaccination based on the state population and positive Covid-19 cases?
 
 2. Which age group has the lowest/highest vaccination rate? If so, how can we better cater for the age group that has the lowest vaccination rate?
 
