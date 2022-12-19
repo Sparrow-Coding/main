@@ -7,11 +7,15 @@ According to a recent study published by CDC in August 2022, the estimated vacci
 
 Assuming the vaccine is helpful, we aim to use data to address the following questions in order to assist government officials in better allocating social resources and combating the COVID-19 situation:
 
-Which state has the lowest/highest vaccination rate? How can we cater for the need of vaccination based on the state population and positive Covid-19 cases?
-Which age group has the lowest/highest vaccination rate? If so, how can we better cater for the age group that has the lowest vaccination rate?
-What is the vaccination trend looking like for the next 3 months?
-Is there a high demand for booster doses throughout 2020–2022?
-In which period did the demand for vaccination (administered dose / boosters) seem to decline?
+1. Which state has the lowest/highest vaccination rate? How can we cater for the need of vaccination based on the state population and positive Covid-19 cases?
+
+2. Which age group has the lowest/highest vaccination rate? If so, how can we better cater for the age group that has the lowest vaccination rate?
+
+3. What is the vaccination trend looking like for the next 3 months?
+
+4. Is there a high demand for booster doses throughout 2020–2022?
+
+5. In which period did the demand for vaccination (administered dose / boosters) seem to decline?
 
 ### Source of the dataset
 
