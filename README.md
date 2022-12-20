@@ -30,3 +30,6 @@ Based on the data analysis, we will apply the Ridge regression model to (1) pred
 This dataset contains demographic characteristics (age, sex, and age by sex) of people receiving COVID-19 vaccinations in the United States at the national and jurisdictional levels.
 
 Data represents all vaccine partners including jurisdictional partner clinics, retail pharmacies, long-term care facilities, dialysis centers, Federal Emergency Management Agency and Health Resources and Services Administration partner sites, and federal entity facilities. 
+
+## Data Dictionary 
+
