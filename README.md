@@ -34,6 +34,7 @@ Data represents all vaccine partners including jurisdictional partner clinics, r
 ## Data Dictionary 
 
 | Column Name | Data Type | Description |
+| --- | --- | --- |
 | Date | Object | Date |
 | Location | Object |  |
 | Demographic_Category | Object |  |
