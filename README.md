@@ -30,12 +30,19 @@ Based on the data analysis, we will apply the Ridge regression model to (1) pred
 This dataset contains demographic characteristics (age, sex, and age by sex) of people receiving COVID-19 vaccinations in the United States at the national and jurisdictional levels.
 
 Data represents all vaccine partners including jurisdictional partner clinics, retail pharmacies, long-term care facilities, dialysis centers, Federal Emergency Management Agency and Health Resources and Services Administration partner sites, and federal entity facilities. 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ## Data Dictionary 
 
-=======
->>>>>>> origin
-=======
->>>>>>> parent of 12f90ef (Gunnar Ohlson Files)
+| Column Name | Data Type | Description |
+| Date | Object | Date |
+| Location | Object |  |
+| Demographic_Category | Object |  |
+| census | float64 |  |
+| Administered_Dose1 | float64 |  |
+| Series_Complete_Yes | float64 |  |
+| Booster_Doses | float64 |  |
+| Second_Booster | float64 |  |
+| Administered_Dose1_pct_agegroup | float64 |  |
+| Series_Complete_Pop_pct_agegroup | float64 |  |
+| Booster_Doses_Vax_pct_agegroup | float64 |  |
+| Second_Booster_Vax_pct_agegroup | float64 |  |
