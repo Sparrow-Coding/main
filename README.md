@@ -40,7 +40,7 @@ Data represents all vaccine partners including jurisdictional partner clinics, r
 | Demographic_Category | Object | Ages |
 | census | float64 | Population of State  |
 | Administered_Dose1 | float64 | Amount of people who got the first dose |
-| Series_Complete_Yes | float64 | Aount of people who completed series  |
+| Series_Complete_Yes | float64 | Amount of people who completed series  |
 | Booster_Doses | float64 | Amount of people who received booster  |
 | Second_Booster | float64 | Amount of people who received second booster  |
 | Administered_Dose1_pct_agegroup | float64 | Agegroup of people who received the first dose  |
