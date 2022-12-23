@@ -1,6 +1,7 @@
 # U.S. Vaccination Analysis and Prediction
 
 ### Problem Statement and Background
+
 Throughout 2020–2022, Covid-19 rampaged rampantly, putting many people’s lives and quality of life at risk.
 
 According to a recent study published by CDC in August 2022, the estimated vaccine effectiveness of two doses of Pfizer-BioNTech vaccine in preventing MIS-C was 84%. Among children ages 5–11, vaccine effectiveness against MIS-C was estimated to be 78%, and among those ages 12–18, it was 90%.
@@ -49,6 +50,7 @@ Data represents all vaccine partners including jurisdictional partner clinics, r
 | Second_Booster_Vax_pct_agegroup | float64 | Agegroup of people who received the second booster|
 
 Conclusion / Recommendation
+<br>
 To sum up, the vaccination rate is satisfactory. And since the number of people who have completed the entire vaccination series is higher than the weekly new positive Covid-19 cases. It is believed that the Covid-19 situation has finally brought under control now.
 
 
