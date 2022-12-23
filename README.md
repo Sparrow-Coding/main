@@ -47,3 +47,28 @@ Data represents all vaccine partners including jurisdictional partner clinics, r
 | Series_Complete_Pop_pct_agegroup | float64 |Agegroup of people who received the complete series|
 | Booster_Doses_Vax_pct_agegroup | float64 |Agegroup of people who received booster  |
 | Second_Booster_Vax_pct_agegroup | float64 | Agegroup of people who received the second booster|
+
+Conclusion / Recommendation
+To sum up, the vaccination rate is satisfactory. And since the number of people who have completed the entire vaccination series is higher than the weekly new positive Covid-19 cases. It is believed that the Covid-19 situation has finally brought under control now.
+
+(a.) Which state has the lowest/highest vaccination rate? How can we cater for the need of vaccination based on the state population and positive Covid-19 cases?
+
+Wyoming, Guam, North Dakota, Alaska, Vermont, South Dakota have the lowest vaccination rate. While California, Texas, New York, Florida and Pennsylvania have the highest vaccination rate. These states are typically categorized by their greater population density. The government should take the ratio of population and confirmed Covid-19 cases into account in order to reevaluate the need of vaccination.
+
+(b.) Which age group has the lowest/highest vaccination rate? If so, how can we better cater for the age group that has the lowest vaccination rate?
+
+Of the entire population, the age group 0–12 has the lowest vaccination rate, which is also known as the infants and toddlers. Meanwhile, age group 25–49, 50–64, 65+ have the highest vaccination rate among all.
+
+Vaccine companies, such as Pfizer, should provide a vaccine that tailored for children > 12, with a smaller dose of COVID-19 vaccine than teens and adults, so as to minimize the adverse effects that parents were concerning.
+
+(c.) What is the vaccination trend looking like for the next 3 months?
+
+It is predicted that the number of people who will have completed the vaccination will more or less reach to plateau in the next 3 months. However, the number of new receival of the 1st dose and the boosters will significantly plummet and perhaps reach to a bottom.
+
+(d.)Is there a high demand for booster doses throughout 2020–2022?
+
+Relatively yes, the number of people completing booster doses increased drastically from 2021–10 to 2022–02, but the growth is expected to slow down after then and reach to a plateau soon.
+
+(e.) In which period did the demand for vaccination (administered dose / boosters) seem to decline?
+
+The accumulative number of administered dose 1 completion slowed down drastically from 2021–01 to 2022–12. The demand for administered dose 1 dropped drastically after 2022 November. While the boosters share more or less the same patterns with administered dose 1.
