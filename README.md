@@ -49,7 +49,7 @@ Data represents all vaccine partners including jurisdictional partner clinics, r
 | Booster_Doses_Vax_pct_agegroup | float64 |Agegroup of people who received booster  |
 | Second_Booster_Vax_pct_agegroup | float64 | Agegroup of people who received the second booster|
 
-Conclusion / Recommendation
+# Conclusion / Recommendation
 <br>
 To sum up, the vaccination rate is satisfactory. And since the number of people who have completed the entire vaccination series is higher than the weekly new positive Covid-19 cases. It is believed that the Covid-19 situation has finally brought under control now.
 
