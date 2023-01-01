@@ -24,7 +24,7 @@ Data-driven decisions will be made through analysis of ‘COVID-19 Vaccination A
 
 Reference: https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh
 
-Based on the data analysis, we will apply the Ridge regression model to (1) predict how many U.S. citizens have already completed the vaccination and (2) evaluate whether the current number of vaccinations is sufficient to put COVID-19 under control.
+Based on the data analysis, we will apply the Ridge regression model to (1) predict how many U.S. citizens have already completed the vaccination based on the census data and (2) evaluate whether the current number of vaccinations is sufficient to put COVID-19 under control.
 
 ##  Data Description
 
